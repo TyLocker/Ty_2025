@@ -2,8 +2,8 @@ title: Nighthawk Pages
 description: "Class of 2027"
 owner_name: Tyler Locker
 github_username: TyLocker
-github_repo: "Locker_2025" 
-baseurl: "/Locker_2025"
+github_repo: "Ty_2025" 
+baseurl: "/Ty_2025"
 future: true
 remote_theme: jekyll/minima
 minima:
