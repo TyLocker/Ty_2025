@@ -10,7 +10,7 @@ I am taking computer science because I think it is very future-prevalent and cou
 
 
 <!-- Liquid:  statements -->
-
+{% include nav/home.html %}
 
 <!--- Concatenation of site URL to frontmatter image  --->
 {% assign sprite_file = site.baseurl | append: page.image %}
