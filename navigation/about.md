@@ -100,6 +100,9 @@ permalink: /about/
 - Pets
 
 
-
-
+Gallery of Pics, scroll to the right for more ...
+</comment>
+<div class="image-gallery">
+  <img src="https://github.com/user-attachments/assets/d45af6f7-699c-42ac-a77b-85989f8f8cc7" alt="Image 1">
+</div>
 <img src="https://github.com/user-attachments/assets/d45af6f7-699c-42ac-a77b-85989f8f8cc7" width="240" height="380">
