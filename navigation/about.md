@@ -102,7 +102,7 @@ permalink: /about/
 
 
 
-Picture Gallery, scroll right for more
+Picture Gallery, things important to me
 <div class="image-gallery">
   <img src="https://github.com/user-attachments/assets/d45af6f7-699c-42ac-a77b-85989f8f8cc7" alt="Image 1">
   <img src="https://github.com/user-attachments/assets/e4ab457a-6c13-47c6-926d-37ed15636d03" alt="Image 2">
