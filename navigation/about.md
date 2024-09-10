@@ -102,10 +102,10 @@ permalink: /about/
 
 
 
-Gallery of Pics, scroll to the right for more ...
+Picture Gallery, scroll right for more
 <div class="image-gallery">
   <img src="https://github.com/user-attachments/assets/d45af6f7-699c-42ac-a77b-85989f8f8cc7" alt="Image 1">
   <img src="https://github.com/user-attachments/assets/e4ab457a-6c13-47c6-926d-37ed15636d03" alt="Image 2">
-  <img src="" alt="Image 3">
+  <img src="https://github.com/user-attachments/assets/6138bd05-2e7a-4f03-b4b1-343bf29970dc" alt="Image 3">
 </div>
 
